@@ -19,4 +19,5 @@ class IoTLib {
 
 public:
   void setup();
+  const char* getGatewayAddress();
 };

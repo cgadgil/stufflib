@@ -11,14 +11,15 @@
     "frameworks": "arduino",
     "dependencies": [
       {
-        name: "WiFiManager"
+        "name": "WifiManager"
       },
       {
-        name: "PubSubClient"
+        "name": "PubSubClient"
       },
       {
-        name: "ArduinoJson"
+        "name": "ArduinoJson"
       }
+
     ],
     "platforms": [
         "atmelavr",
