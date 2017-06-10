@@ -9,6 +9,17 @@
     "version": "0.1",
     "exclude": "tests",
     "frameworks": "arduino",
+    "dependencies": [
+      {
+        name: "WiFiManager"
+      },
+      {
+        name: "PubSubClient"
+      },
+      {
+        name: "ArduinoJson"
+      }
+    ],
     "platforms": [
         "atmelavr",
         "espressif"
