@@ -1,5 +1,5 @@
 {
-    "name": "IoTLib",
+    "name": "stufflib",
     "keywords": "ethernet, mqtt, m2m, iot, ntp",
     "description": "A client library with default behavior",
     "repository": {
