@@ -1,0 +1,16 @@
+{
+    "name": "IoTLib",
+    "keywords": "ethernet, mqtt, m2m, iot, ntp",
+    "description": "A client library with default behavior",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cgadgil/stufflib.git"
+    },
+    "version": "0.1",
+    "exclude": "tests",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif"
+    ]
+}
