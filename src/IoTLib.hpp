@@ -6,7 +6,6 @@
 #include <WiFiManager.h>
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
-#include <NTPClient.h>
 #include <WiFiUdp.h>
 
 #define NTP_OFFSET   60 * 60      // In seconds
